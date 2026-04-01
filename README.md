@@ -14,6 +14,9 @@ Rather than building a standard CRUD application, I approached this as a **frict
 
 I value your time. To evaluate the app's visualizations and logic without manually inputting dozens of transactions, please follow these steps:
 
+**📱 Direct Install (Android):**
+You can directly download and install the pre-compiled application via the `PersonalFinanceCompanion.apk` file located in the root of this repository.
+
 1. Launch the application in your emulator or device.
 2. Tap the **Settings (Gear Icon)** in the top right corner of the Home Dashboard.
 3. Tap **"Load Demo Data"**.
